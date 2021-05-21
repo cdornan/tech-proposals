@@ -10,7 +10,7 @@ This template is for Haskell Foundation technical agenda proposals. You may find
 
 This section should detail the following: A summary of the proposal’s
 motivation, implementation, risks, timeline, and goals. It should aim to
-be an abstract for the proposals.
+be an abstract for the proposal.
 
 ## Background
 
