@@ -74,7 +74,7 @@ high-level description of the following criteria:
 This section should describe the individual deliverables this project
 will bring as a result of the changes described above. These
 deliverables should support the end goals of the project and define what
-HF is actually delivering to the community.
+this project is actually delivering to the community.
 
 ## Outcomes
 
