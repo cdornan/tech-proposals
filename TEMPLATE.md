@@ -37,7 +37,7 @@ for undertaking the project.
 
 This section should detail the following people:
 
--   **Performers:** the project leads and main developers/resources who will be directly involved in the day to day work.
+-   **Performers:** the project leads and main developers/resources who will be directly involved in the day to day work. If your project needs performers to be sourced by the Haskell Foundation, please say so here.
     
 -   **Reviewers:** people who will be signing off on work done for the proposal at different stages.
     
